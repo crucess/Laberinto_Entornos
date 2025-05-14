@@ -23,7 +23,7 @@ public class Celda {
         this.posY = posY;
     }
     
-    // Setter
+    // Setters
     public int getPosX() {
         return this.posX;
     }
